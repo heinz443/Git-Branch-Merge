@@ -1,12 +1,7 @@
 # Git-Branch-Merge
 
+## Git Branching Experiment
 
-
-\# Git Branching Experiment
-
-
-
-This is my feature branch.
+This is the resolved version after merging main and feature branches.
 
 Learning Git and GitHub collaboration.
-
